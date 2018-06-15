@@ -1,0 +1,21 @@
+#!/bin/bash
+read -p "enter the file name " fname
+
+
+[ -d $fname ]]; then
+#find $fname -type f -exec wc -l {} \;
+#fi
+
+
+
+
+
+#if [[ -f $fname ]];
+#then
+#cat $fname | echo "file 1 has" `wc -l` "lines"
+#else
+#echo "enter a valid name"
+
+#fi
+
+
